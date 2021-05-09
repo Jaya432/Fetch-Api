@@ -1,0 +1,18 @@
+#container{
+}
+#content{
+    background-color: lightskyblue
+}
+#test{
+    background-color:lightpink;
+}
+button{
+    color: lightyellow;
+    background-color: grey
+}
+
+#btn{
+    height: 50px;
+    width: 100px;
+    border-color: darkgray
+}
